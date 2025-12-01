@@ -1,10 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Yasser Trs - Link in Bio</title>
-
+  <title>Yasser - Réseaux</title>
   <style>
     * { box-sizing: border-box; margin:0; padding:0; }
 
@@ -32,13 +32,6 @@
       position: relative;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to   { opacity: 1; transform: translateY(0); }
-    }
-    .card { animation: fadeIn 0.8s ease; }
-
-    /* Cercle avec nom */
     .circle-name {
       width: 140px;
       height: 140px;
@@ -102,15 +95,13 @@
 <body>
 
   <div class="card">
-
-    <!-- Cercle avec nom -->
     <div class="circle-name">
       Yasser Trs✪
+    </div>
 
     <h1>Yasser</h1>
     <p>Retrouve-moi ici 👇</p>
 
-    <!-- Boutons réseaux sociaux -->
     <a class="btn" href="https://www.facebook.com/share/1CxNTA2fJz/" target="_blank">Facebook</a>
     <a class="btn" href="https://www.youtube.com/@Yasser_Trs" target="_blank">YouTube</a>
     <a class="btn" href="https://www.tiktok.com/@yasser.trs8?_r=1&_t=ZP-91rrpiiIqUR" target="_blank">TikTok</a>
